@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "importHelpers": true,
+        "strict": true,
+        "jsx": "react",
+        "jsxFactory": "h",
+        "target": "es5",
+        "module": "es6",
+        "moduleResolution": "node",
+        "types": ["hyperapp"]
+    }
+    
+}
